@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kovunov.bearguest",
+      "nativeLanguage": "ru"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "bearGuest",
+    "packageName": "com.kovunov.bearguest",
+    "packageFolder": "com/kovunov/bearguest",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "YWU0MTljMWM3ZDFmODQ1YTE5ZjY4MTdkYmQ2ZDFjOGRhOWUzOTYxZDRhODk5OGE0MWQxZGI5OTA4NjQ2YzcwZWU5Mjk1MDdiNTU0YmRkYzI4ZmEyMDFhOTQ0MGJhMWU3OWZjNDZhY2YwZmVlNWE3YTUxNWQ5ZjIwMDRiYjUyOWI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1587083472834,
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "ru",
+    "languages": ["ru"],
+    "blueprints": []
+  }
+}
